@@ -1,6 +1,6 @@
 cask "snapdesk" do
   version "0.1.0"
-  sha256 "REPLACED_BY_RELEASE_SCRIPT"
+  sha256 "311df40df94a6ce180feda16cdb1aed6034cd40a98f019d4dfc9c8dcbf737a80"
 
   url "https://github.com/pedroknup/snapdesk/releases/download/v#{version}/snapdesk-#{version}.zip"
   name "SnapDesk"
