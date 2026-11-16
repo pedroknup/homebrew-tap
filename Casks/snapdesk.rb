@@ -13,7 +13,7 @@ cask "snapdesk" do
   end
 
   auto_updates false
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "snapdesk.app"
 

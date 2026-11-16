@@ -1,7 +1,9 @@
 # pedroknup/homebrew-tap
 
 ```sh
-brew install --cask pedroknup/tap/snapdesk
+brew tap pedroknup/tap
+brew trust pedroknup/tap
+brew install --cask snapdesk
 ```
 
 SnapDesk needs Accessibility permission: System Settings → Privacy & Security → Accessibility.
